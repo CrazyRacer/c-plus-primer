@@ -1,4 +1,10 @@
-
+//
+//  main.cpp
+//  myfirst
+//
+//  Created by 于鹏 on 16/2/5.
+//  Copyright © 2016年 于鹏. All rights reserved.
+//
 
 #include <iostream>
 
