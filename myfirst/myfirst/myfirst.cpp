@@ -74,11 +74,24 @@ void somecin(){
 
 
 
+#include "Sales_item.h"
+
+void classtest(){
+    Sales_item book;
+    cin>>book;
+    cout<<book<<endl;
+    
+
+}
+
+
+
 int main(int argc, const char * argv[]) {
     //    iotest();
     //    whiletest();
     //    fortest();
-    somecin();
+    //    somecin();
+    classtest();
     return 0;
 }
 
