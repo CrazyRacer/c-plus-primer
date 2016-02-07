@@ -237,6 +237,7 @@
 				781311411C64E8FF0036C928 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
